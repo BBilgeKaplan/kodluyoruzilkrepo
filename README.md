@@ -15,7 +15,7 @@ git clone https://github.com/BBilgeKaplan/kodluyoruzilkrepo.git
 ```
 
 
-### Usage
+## Usage
 ---
 
 Projeyi cloneladıktan sonra Visual Studio Code prrogramında açınız.
@@ -30,13 +30,13 @@ code .
 
 
 
-#### Contributing
+## Contributing
 ---
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 
 
-##### Lisence
+## Lisence
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
