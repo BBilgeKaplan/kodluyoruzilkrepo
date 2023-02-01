@@ -1,19 +1,18 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://www.patika.dev/tr) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![]()
+![](https://github.com/BBilgeKaplan/kodluyoruzilkrepo/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
+
 
 ## Installation
 
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
 
-'''
-
+```
 git clone https://github.com/BBilgeKaplan/kodluyoruzilkrepo.git
-
-'''
+```
 
 
 ### Usage
@@ -21,11 +20,15 @@ git clone https://github.com/BBilgeKaplan/kodluyoruzilkrepo.git
 
 Projeyi cloneladıktan sonra Visual Studio Code prrogramında açınız.
 
-Windows için:
+Linux için:
 
-'''
 
-'''
+```
+cd kodluyoruzilkrepo
+code .
+```
+
+
 
 #### Contributing
 ---
@@ -33,6 +36,7 @@ Windows için:
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 
-##### Lisence
 
+##### Lisence
+---
 [MIT](https://choosealicense.com/licenses/mit/)
